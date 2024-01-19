@@ -1,0 +1,150 @@
+[
+{
+    "model": "polls.question",
+    "pk": 1,
+    "fields": {
+        "question_text": "What country are you from?",
+        "pub_date": "2024-01-13T15:38:12.502Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 2,
+    "fields": {
+        "question_text": "What language do you speak at home?",
+        "pub_date": "2024-01-10T12:38:52Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 3,
+    "fields": {
+        "question_text": "Is there a river nearby?",
+        "pub_date": "2024-01-13T15:39:34.320Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 4,
+    "fields": {
+        "question_text": "What is your favourite cuisine?",
+        "pub_date": "2023-12-13T16:14:45Z"
+    }
+},
+{
+    "model": "polls.question",
+    "pk": 5,
+    "fields": {
+        "question_text": "Do you have any pets?",
+        "pub_date": "2023-01-13T16:05:16Z"
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 1,
+    "fields": {
+        "question": 1,
+        "choice_text": "Australia",
+        "votes": 3
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 2,
+    "fields": {
+        "question": 1,
+        "choice_text": "New Zealand",
+        "votes": 1
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 3,
+    "fields": {
+        "question": 1,
+        "choice_text": "India",
+        "votes": 10
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 4,
+    "fields": {
+        "question": 1,
+        "choice_text": "Indonesia",
+        "votes": 7
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 5,
+    "fields": {
+        "question": 2,
+        "choice_text": "Malay",
+        "votes": 3
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 6,
+    "fields": {
+        "question": 2,
+        "choice_text": "English",
+        "votes": 13
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 7,
+    "fields": {
+        "question": 2,
+        "choice_text": "Hindi",
+        "votes": 8
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 8,
+    "fields": {
+        "question": 2,
+        "choice_text": "Spanish",
+        "votes": 3
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 9,
+    "fields": {
+        "question": 2,
+        "choice_text": "Telugu",
+        "votes": 2
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 10,
+    "fields": {
+        "question": 2,
+        "choice_text": "Portuguese",
+        "votes": 2
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 11,
+    "fields": {
+        "question": 2,
+        "choice_text": "Italian",
+        "votes": 0
+    }
+},
+{
+    "model": "polls.choice",
+    "pk": 12,
+    "fields": {
+        "question": 2,
+        "choice_text": "Swiss",
+        "votes": 0
+    }
+}
+]
